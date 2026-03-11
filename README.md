@@ -215,11 +215,7 @@ It defines endpoints related to:
 
 # Demo Video
 
-Project demonstration video:
-
-```
-Add your Google Drive video link here
-```
+Project demonstration video :https://drive.google.com/file/d/15u0Ip8Lmn7gs09Odl7HilcPCu7TgMUGu/view?usp=sharing
 
 Ensure the link is accessible to **Anyone with the link**.
 
